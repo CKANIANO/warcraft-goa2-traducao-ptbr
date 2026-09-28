@@ -1,2 +1,2 @@
 # warcraft-goa2-traducao-ptbr
-Tradução do mod de Warcraft para CK III, para Português BR. 
+🌍 Tradução completa para PT-BR do mod Warcraft: Guardians of Azeroth 2 para CK3
